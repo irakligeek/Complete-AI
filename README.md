@@ -1,4 +1,6 @@
-This is simple chat completion app created by NextJS utilizing Open AI API
+This is a simple chat completion app created by NextJS utilizing Open AI API.
+
+You must add your own Open AI API key in the `.env` file to run the app. The key name must be OPEN_AI_KEY.
 
 ## Getting Started
 
